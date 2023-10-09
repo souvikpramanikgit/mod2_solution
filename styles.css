@@ -8,6 +8,12 @@
     margin: 10px;
     background-color: grey;
 }
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
 h2 {
     color: #212121;
     border: 2px solid black;
@@ -16,17 +22,29 @@ h2 {
     margin-left: 69.5%;
     font-size: 20px;
     text-align: center;
-   
 }
+
 p{
     margin: 3px;
     font-size: 15px;
 }
+
+#h1{
+ background-color: chocolate;
+}
+
+#h2{
+    background-color: rgb(255, 0, 0);
+}
+
+#h3{
+    background-color: rgb(251, 255, 5);
+}
+
 @media screen and (min-width: 992px) {
     .section {
         width: 30%;
         float: left;
-
     }
 }
 
@@ -45,18 +63,4 @@ p{
     .section {
         width: 90%;
     }
-}
-#h1{
- background-color: chocolate;
-}
-#h2{
-    background-color: rgb(255, 0, 0);
-}
-#h3{
-    background-color: rgb(251, 255, 5);
-}
-h1{
-    color: rgb(175, 0, 0);
-    text-align: center;
-    font-size: 50px;
 }
