@@ -29,15 +29,15 @@ p{
     font-size: 15px;
 }
 
-#h1{
- background-color: chocolate;
+#heading1{
+    background-color: chocolate;
 }
 
-#h2{
+#heading2{
     background-color: rgb(255, 0, 0);
 }
 
-#h3{
+#heading3{
     background-color: rgb(251, 255, 5);
 }
 
@@ -54,7 +54,7 @@ p{
         width: 43.5%;
     }
     #section3 {
-    width :100%;
+        width :91.5%;
     }
 }
 
